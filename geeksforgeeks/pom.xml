@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>problem-ninja</artifactId>
+        <groupId>jsample</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>geeksforgeeks</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>infix-to-postfix</module>
+        <module>count-finger</module>
+        <module>count-triplets-product-equal-given-number</module>
+        <module>find-triplet-sum-equal-given-number</module>
+        <module>find-pair-sum-equal-given-number</module>
+        <module>merge-k-sorted-same-size-arrays</module>
+        <module>pascal-triangle</module>
+        <module>count-ways-nth-stair-using-1-2-3-step</module>
+        <module>find-max-repeating-number</module>
+        <module>find-largest-word-by-deleting-some-characters-in-string</module>
+        <module>celebrity-problem</module>
+        <module>highest-power-of-2-divides-number</module>
+        <module>highest-power-of-2-divides-number-binary</module>
+    </modules>
+
+</project>
