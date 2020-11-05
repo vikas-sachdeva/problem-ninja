@@ -18,6 +18,8 @@
         <module>champagne-tower</module>
         <module>recover-binary-search-tree</module>
         <module>convert-binary-no-in-linked-list-to-Integer</module>
+        <module>consecutive-characters</module>
+        <module>minimum-cost -to-move-chips-to-same-position</module>
     </modules>
 
 </project>
