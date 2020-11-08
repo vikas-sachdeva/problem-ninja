@@ -22,6 +22,7 @@
         <module>minimum-cost -to-move-chips-to-same-position</module>
         <module>add-two-numbers-represented-as-linked-list</module>
         <module>maximum-nesting-depth-parentheses</module>
+        <module>binary-tree-tilt</module>
     </modules>
 
 </project>
