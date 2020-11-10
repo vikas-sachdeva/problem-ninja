@@ -23,6 +23,7 @@
         <module>add-two-numbers-represented-as-linked-list</module>
         <module>maximum-nesting-depth-parentheses</module>
         <module>binary-tree-tilt</module>
+        <module>flip-binary-image</module>
     </modules>
 
 </project>

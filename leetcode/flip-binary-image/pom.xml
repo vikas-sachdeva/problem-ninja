@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>minimum-cost-to-move-chips-to-same-position</artifactId>
+    <artifactId>flip-binary-image</artifactId>
 
 
 </project>
