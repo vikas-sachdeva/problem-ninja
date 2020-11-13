@@ -24,6 +24,7 @@
         <module>maximum-nesting-depth-parentheses</module>
         <module>binary-tree-tilt</module>
         <module>flip-binary-image</module>
+        <module>populating-next-right-pointers</module>
     </modules>
 
 </project>
