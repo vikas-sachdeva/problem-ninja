@@ -27,6 +27,7 @@
         <module>populating-next-right-pointers</module>
         <module>range-sum-bst</module>
         <module>longest-mountain-array</module>
+        <module>design-ordered-stream</module>
     </modules>
 
 </project>
