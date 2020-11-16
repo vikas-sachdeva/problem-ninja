@@ -25,6 +25,7 @@
         <module>binary-tree-tilt</module>
         <module>flip-binary-image</module>
         <module>populating-next-right-pointers</module>
+        <module>range-sum-bst</module>
     </modules>
 
 </project>
