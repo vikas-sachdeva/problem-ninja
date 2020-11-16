@@ -26,6 +26,7 @@
         <module>flip-binary-image</module>
         <module>populating-next-right-pointers</module>
         <module>range-sum-bst</module>
+        <module>longest-mountain-array</module>
     </modules>
 
 </project>
