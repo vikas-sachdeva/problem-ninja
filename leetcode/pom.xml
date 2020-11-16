@@ -28,6 +28,7 @@
         <module>range-sum-bst</module>
         <module>longest-mountain-array</module>
         <module>design-ordered-stream</module>
+        <module>determine-if-two-strings-are-close</module>
     </modules>
 
 </project>

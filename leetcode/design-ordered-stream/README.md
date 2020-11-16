@@ -6,8 +6,8 @@ Implement the OrderedStream class:
 
  * OrderedStream(int n) Constructs the stream to take n values and sets a current ptr to 1.
  * String[] insert(int id, String value) Stores the new (id, value) pair in the stream. After storing the pair:
- ** If the stream has stored a pair with id = ptr, then find the longest contiguous incrementing sequence of ids starting with id = ptr and return a list of the values associated with those ids in order. Then, update ptr to the last id + 1.
- ** Otherwise, return an empty list.
+    * If the stream has stored a pair with id = ptr, then find the longest contiguous incrementing sequence of ids starting with id = ptr and return a list of the values associated with those ids in order. Then, update ptr to the last id + 1.
+    * Otherwise, return an empty list.
 
 **Example-1**:
 
