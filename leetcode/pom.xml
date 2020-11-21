@@ -29,6 +29,9 @@
         <module>longest-mountain-array</module>
         <module>design-ordered-stream</module>
         <module>determine-if-two-strings-are-close</module>
+        <module>minimum-operations-reduce-x-zero</module>
+        <module>maximum-sum-circular-subarray</module>
+        <module>maximum-points-obtain-from-cards</module>
     </modules>
 
 </project>
