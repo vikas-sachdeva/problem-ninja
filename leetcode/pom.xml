@@ -33,6 +33,7 @@
         <module>maximum-sum-circular-subarray</module>
         <module>maximum-points-obtain-from-cards</module>
         <module>basic-calculator</module>
+        <module>reshape-matrix</module>
     </modules>
 
 </project>
