@@ -25,6 +25,7 @@
         <module>celebrity-problem</module>
         <module>highest-power-of-2-divides-number</module>
         <module>highest-power-of-2-divides-number-binary</module>
+        <module>generate-n-bit-gray-codes</module>
     </modules>
 
 </project>
